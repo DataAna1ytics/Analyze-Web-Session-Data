@@ -9,6 +9,8 @@ Some new metrics will be created: active and inactive session durations in each 
 
 ## Steps Completed:
 Data Preparation: data cleaning (handle missing values and outliers)
+
 EDA: univariate and multivariate tests
+
 Model Development: 
 
