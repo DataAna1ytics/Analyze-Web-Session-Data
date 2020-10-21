@@ -8,9 +8,7 @@ Key metrics are used including number of likes and comments given, number of bug
 Some new metrics will be created: active and inactive session durations in each hour and minutes.
 
 ## Steps Completed:
-Data Preparation: data cleaning (handle missing values and outliers)
-
-EDA: univariate and multivariate tests
-
-Model Development: 
+  Data Preparation: data cleaning (handle missing values and outliers)
+  EDA: univariate and multivariate tests
+  Model Development: 
 
